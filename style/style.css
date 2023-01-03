@@ -10,3 +10,20 @@ ul,li{
     list-style: none;
 }
 /* main css start from here */
+
+.container{
+    width: 1174px;
+    background-color: aquamarine;
+}
+.header{
+    width: 100%;
+    background-color: azure;
+}
+.content{
+    width: 100%;
+    background-color: blueviolet;
+}
+.footer{
+    width: 100%;
+    background-color: darkslateblue;
+}
