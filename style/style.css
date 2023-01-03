@@ -14,16 +14,33 @@ ul,li{
 .container{
     width: 1174px;
     background-color: aquamarine;
+    margin: auto;
 }
 .header{
     width: 100%;
     background-color: azure;
 }
+.header h1{
+    color: white;
+    background-color: navy;
+    font-weight: 700;
+    font-family: monospace;
+    text-align: center;
+}
 .content{
     width: 100%;
-    background-color: blueviolet;
+    background-color: aquamarine;
+    text-align: center;
 }
 .footer{
     width: 100%;
     background-color: darkslateblue;
+}
+.desc{
+    width: 30%;
+    background-color: blueviolet;
+    display: inline-block;
+}
+.desc h3,p{
+    text-align: center;
 }
